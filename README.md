@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
   <p>
     <a href="https://github.com/laxmena/PyCalendly">
     <a href="https://github.com/Citlalirgb/R/blob/main/Análisis_Regresión_Lineal.ipynb">
-      <img src="https://github.com/Citlalirgb/Images/blob/main/LR.png" alt="GitHub Stats" />
+      <img src="https://github.com/Citlalirgb/Images/blob/main/LR.png" alt="GitHub Stats" height="150"/>
     </a>
     <a href="https://github.com/laxmena/CloudOrg-Simulator">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
