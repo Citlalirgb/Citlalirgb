@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
   <p>
     <a href="https://github.com/laxmena/PyCalendly">
     <a href="https://github.com/Citlalirgb/R/blob/main/Análisis_Regresión_Lineal.ipynb">
-      <img src="https://github.com/Citlalirgb/Images/blob/main/LR.png" alt="GitHub Stats" height="100"/>
+      <img src="https://github.com/Citlalirgb/Images/blob/main/LR.png" alt="GitHub Stats" height="120"/>
   </p>
 </div>
 
