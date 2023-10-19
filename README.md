@@ -34,11 +34,7 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<div>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
-  </p>
-</div>
+
 
 
 - Write to me: [citlali.rgb@gmail.com](mailto:citlali.rgb@gmail.com)
