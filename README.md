@@ -17,7 +17,7 @@ I am a biologist with a Master's degree in Data Science. I have skills in data a
 - Master's degree in Data Science. 
 - Bachelor's degree in Biology.
 
-<bold>Technologies I use:</bold>
+<h3 style="color: black;">Tvechnologies I use:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
