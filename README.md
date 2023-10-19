@@ -23,10 +23,9 @@ I am a biologist with a Master's degree in Data Science. I have skills in data a
 
 __Check out my GitHub repository:__
 
-<!--
 <div>
   <p>
-    <a href="https://github.com/laxmena/PyCalendly">
+    <a href="https://github.com/Citlalirgb/R/blob/main/Análisis_Regresi%C3%B3n_Lineal.ipynb">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/laxmena/CloudOrg-Simulator">
@@ -34,7 +33,6 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
--->
 
 <div>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
