@@ -25,8 +25,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Citlalirgb/R/blob/main/Análisis_Regresi%C3%B3n_Lineal.ipynb">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    <a href="https://github.com/Citlalirgb/R/blob/main/Análisis_Regresión_Lineal.ipynb">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=Linear Regression Analysis" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/laxmena/CloudOrg-Simulator">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
