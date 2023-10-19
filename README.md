@@ -26,11 +26,11 @@ I am a biologist with a Master's degree in Data Science. I have skills in data a
 <div>
   <p>
     <a href="https://github.com/Citlalirgb/R/blob/main/Linear%20Regression%20Analysis.ipynb">
-      <img src="https://github.com/Citlalirgb/Images/blob/main/LR.png" alt="GitHub Stats" height="110"/>
+      <img src="https://github.com/Citlalirgb/Images/blob/main/LR.png" alt="GitHub Stats" height="90"/>
   </p>
   <p>
     <a href="https://github.com/Citlalirgb/R/blob/main/Multiple%20Regression%20Model.ipynb">
-  <img src="https://github.com/Citlalirgb/Images/blob/main/MRM.png" alt="GitHub Stats" height="110"/>
+  <img src="https://github.com/Citlalirgb/Images/blob/main/MRM.png" alt="GitHub Stats" height="90"/>
   </p>
 </div>
 
