@@ -34,7 +34,7 @@ I am a biologist with a Master's degree in Data Science. I have skills in data a
   </p>
   <p>
     <a href="https://github.com/Citlalirgb/Python/blob/main/KNN%20Classification.ipynb">
-  <img src="https://github.com/Citlalirgb/Images/blob/main/KNN.png" alt="GitHub Stats" height="90"/>
+  <img src="https://github.com/Citlalirgb/Images/blob/main/KNNml.png" alt="GitHub Stats" height="90"/>
   </p>
 </div>
 
