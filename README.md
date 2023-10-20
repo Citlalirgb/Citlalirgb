@@ -46,7 +46,7 @@ I am a biologist with a Master's degree in Data Science. I have skills in data a
   </p>
   <p>
     <a href="https://github.com/Citlalirgb/PHP_CSS_SQL/tree/main">
-  <img src="https://github.com/Citlalirgb/Images/blob/main/phpcss.png" alt="GitHub Stats" height="70"/>
+  <img src="https://github.com/Citlalirgb/Images/blob/main/phpcss.png" alt="GitHub Stats" height="50"/>
   </p>
 </div>
 
