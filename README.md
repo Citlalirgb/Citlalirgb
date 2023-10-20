@@ -40,6 +40,10 @@ I am a biologist with a Master's degree in Data Science. I have skills in data a
     <a href="https://github.com/Citlalirgb/Python/blob/main/Ridge%20and%20Lasso%20Regression.ipynb">
   <img src="https://github.com/Citlalirgb/Images/blob/main/RLR.png" alt="GitHub Stats" height="90"/>
   </p>
+  <p>
+    <a href="https://github.com/Citlalirgb/Python/blob/main/Time%20Series%20Analysis.ipynb">
+  <img src="https://github.com/Citlalirgb/Images/blob/main/TSA.png" alt="GitHub Stats" height="90"/>
+  </p>
 </div>
 
 
